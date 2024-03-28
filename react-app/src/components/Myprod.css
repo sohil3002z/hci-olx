@@ -1,0 +1,23 @@
+.prod{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myimgs{
+    margin: 20px 20px 20px 20px ;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.cntr{
+    text-align: center ;
+}
+
+.bgNav{
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+.bgProd{
+    /* background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); */
+}
